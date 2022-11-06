@@ -34,6 +34,7 @@
    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ&logoColor=white">
    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white">
    <br>
+</div>
 
 <!--
 **sxunea/sxunea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
