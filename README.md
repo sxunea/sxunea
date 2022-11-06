@@ -29,7 +29,8 @@
 
 <div align=center><h3> 📘 Tools </h3></div>
    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white"> 
-   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white"> 
+   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white">
+   <br>
    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Andriod Studio&logoColor=white">
    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ&logoColor=white">
    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white">
