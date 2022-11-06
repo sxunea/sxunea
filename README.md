@@ -1,8 +1,6 @@
 ###             <div align=center>  Hi there :) Look what I've got ! 👋 </div>
 <br>
 <br>
-<br>
-
 
 <div align=center><h3> 💡 Most Interested & now Learning </h3></div>
 <div align=center>
