@@ -3,6 +3,7 @@
 <div align=center><h3>📚 Now Learning </h3></div>
 <div align=center>
    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
 </div>
   
 
