@@ -1,7 +1,7 @@
 ###             <div align=center> <u>  Hi, Look what I've got ! :) 👋 </u></div> ###
 <br>
 
-<div align=center><h3> 💡 Most Interested & Now Learning </h3></div>
+<div align=center><h3> 💡 Most Interested </h3></div>
 <div align=center>
    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
    <br>
