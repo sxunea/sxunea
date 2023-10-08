@@ -1,8 +1,7 @@
-###             <div align=center> <u>  Hi, Look what I've got ! :) 👋 </u></div> ###
+###             <div align=center> <u>  Hi, Look what I've got ! :)  </u></div> ###
 
 
-### 👋 Me 
----
+## 👋 Me 
 - Majoring Computer Science Engineering in Konkuk University. (2020.02 ~ )
 - GDSC Konkuk 1st Android Core Member (2023.09 ~ )
 - GO SOPT 32th YB Android Member (2023.03 ~ 2023.08)
