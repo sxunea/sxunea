@@ -1,7 +1,7 @@
 ###             <div align=center> <u>  Hi, Look what I've got ! :)  </u></div> ###
 
 
-<h3>👋 Me </h3>  
+### 👋 Me 
 - Majoring Computer Science Engineering in Konkuk University. (2020.02 ~ )
 - GDSC Konkuk 1st Android Core Member (2023.09 ~ )
 - GO SOPT 32th YB Android Member (2023.03 ~ 2023.08)
@@ -15,4 +15,4 @@
 ### ⚡Own Project
 - Android Developer - Winey ver 1.0.0 [Play Store](https://play.google.com/store/apps/details?id=org.go.sopt.winey&pcampaignid=web_share) | [Github](https://github.com/team-winey/Winey-AOS) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sxunea&layout=compact)](https://github.com/sxunea/github-readme-stats)
+
