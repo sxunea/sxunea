@@ -2,7 +2,7 @@
 
 
 ## 👋 Me 
-- Majoring Computer Science Engineering in Konkuk University. (2020.02 ~ )
+- Majoring Computer Science Engineering in Konkuk University. (2020.03 ~ )
 - GDSC Konkuk 1st Android Core Member (2023.09 ~ )
 - GO SOPT 32th YB Android Member (2023.03 ~ 2023.08)
 - Konkuk CSE Academic Club Bibimbap (2020.03 ~ )
