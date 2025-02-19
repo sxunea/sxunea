@@ -1,5 +1,3 @@
-###             <div align=center> <u>  Hi, Look what I've got ! :) 👇  </u></div> ###
-
 
 ## 👋 Me 
 - Majoring Computer Science Engineering in Konkuk University. (2020.03 ~ )
